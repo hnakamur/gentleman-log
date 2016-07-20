@@ -1,4 +1,4 @@
-gentleman-log
+gentleman-log  [![GoDoc](https://godoc.org/github.com/hnakamur/gentleman-log?status.svg)](https://godoc.org/github.com/hnakamur/gentleman-log)
 =============
 
 A logging plugin for [h2non/gentleman: Full-featured, plugin-oriented, composable HTTP client toolkit for Go (golang) (͡° ͜ʖ ͡°)](https://github.com/h2non/gentleman).
